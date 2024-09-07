@@ -2,7 +2,7 @@
 
 **O que essa aplicação faz?**
 
-Imagine ter consultar sobre  o seu próximo destino no Brasil, sem precisar perder tempo com horas de pesquisa! Com essa ferramenta, você pode pesquisar por alguma cidade do Brasil e encontrar tudo o que precisa saber para planejar sua próxima aventura. É só digitar o nome da cidade e pronto: você terá informações sobre os principais pontos turísticos, onde se hospedar e muito mais!
+Imagine ter consultar sobre  o seu próximo destino para alguma cidade turística no Brasil, sem precisar perder tempo com horas de pesquisa! Com essa ferramenta, você pode pesquisar por alguma cidade do Brasil e encontrar tudo o que precisa saber para planejar sua próxima aventura. É só digitar o nome da cidade e pronto: você terá informações sobre os principais pontos turísticos, onde se hospedar e muito mais!
 
 **Como funciona a mágica?**
 
