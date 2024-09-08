@@ -5,7 +5,7 @@
 body {
     font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
 
-    background: url('../projeto-alura/imagem.png') no-repeat center center fixed;
+    background: url('../imagem.png') no-repeat center center fixed;
     background-size: cover;
     /*background: linear-gradient(to right, #00aaff, #0044ff); /* Gradiente azul suave */
     color: #ffffff; /* Cor do texto para contraste */
