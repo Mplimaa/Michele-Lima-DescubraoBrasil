@@ -538,7 +538,7 @@ let dados = [
         descricao: "Cachoeira de Emas é um pequeno município no estado de Goiás, conhecido por suas atrações naturais e pela tranquilidade do interior. É um destino ideal para quem busca contato com a natureza e relaxamento.",
         linkPesquisaDeHoteis: "https://www.booking.com/city/br/cachoeira-de-emas.pt.html?aid=1702940;label=cachoeira-de-emas-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIhYPjxtm_xjAMV6YAB0YkSAGsEAAYAiAAEgIK8_D_BwE",
         linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g442855-Activities-Cachoeira_de_Emas_Goias_State.html",
-        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Cachoeira_de_Emas",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Parque_Nacional_das_Emas",
         linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
         linkBuscarViagemAerea: "https://www.decolar.com/",
         tags: "CachoeiraDeEmas Goiás Natureza Interior Relaxamento"
