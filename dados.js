@@ -427,7 +427,7 @@ let dados = [
         titulo: "Navegantes",
         descricao: "Navegantes é uma cidade localizada no estado de Santa Catarina, conhecida por suas praias e ambiente descontraído. É um destino ideal para quem procura relaxar à beira-mar e aproveitar as atrações naturais da região.",
         linkPesquisaDeHoteis: "https://www.booking.com/city/br/navegantes.pt.html?aid=1702940;label=navegantes-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMI1I6YrqD1xjAMWQfAB0YHGw2V6AAYASAAEgIF6_D_BwE",
-        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303527-Activities-Navegantes_State_of_Santa_Catarina.html",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Tourism-g303587-Navegantes_State_of_Santa_Catarina-Vacations.html",
         linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Navegantes_(Santa_Catarina)",
         linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
         linkBuscarViagemAerea: "https://www.decolar.com/",
