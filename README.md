@@ -26,15 +26,9 @@ Imagine ter consultar sobre  o seu próximo destino para alguma cidade turístic
 **Dica:** Para ter uma experiência ainda melhor, explore o código e personalize a aplicação do seu jeito! Adicione novas funcionalidades, mude as cores, a fonte... As possibilidades são infinitas!
 
 ### **Funcionalidades futuras:**
-
-* **Filtros de pesquisa:** (por exemplo, cidades com praia, cidades históricas)
 * **Mapas interativos**
 * **Recomendações personalizadas**
 
 **[Imagem de um mapa do Brasil com destaque para as cidades disponíveis na aplicação]**
-
-**Contribua com o meu projeto!**
-
-Quer ajudar a melhorar essa aplicação? Sinta-se à vontade para abrir um pull request ou criar uma issue.
 
 **Vamos juntos explorar o Brasil!** 🇧🇷
