@@ -33,7 +33,7 @@ Imagine ter consultar sobre  o seu próximo destino para alguma cidade turístic
 
 **[Imagem de um mapa do Brasil com destaque para as cidades disponíveis na aplicação]**
 
-**Contribua com o projeto!**
+**Contribua com o meu projeto!**
 
 Quer ajudar a melhorar essa aplicação? Sinta-se à vontade para abrir um pull request ou criar uma issue.
 
