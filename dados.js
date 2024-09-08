@@ -148,7 +148,7 @@ let dados = [
         titulo: "Cuiabá",  
         descricao: "Cuiabá é conhecida como a porta de entrada para o Pantanal e a Chapada dos Guimarães, oferecendo experiências únicas na natureza e na fauna selvagem.",  
         linkPesquisaDeHoteis : "https://www.booking.com/city/br/cuiaba.pt.html?aid=1702940;label=cuiaba-jz5FicNOWj9PCRY5ZbvVcAS479845114681:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-4383818716:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMI7pv1vOG5ewiAMVwAEB2FiQwCEAQYASABEgJ9l_D_BwE",  
-        linkPontosTuristicos : "https://www.tripadvisor.com.br/Attraction_Products-g303325-zfg11873-Cuiaba_State_of_Mato_Grosso.html",  
+        linkPontosTuristicos : "https://www.tripadvisor.com.br/Attractions-g488170-Activities-Cuiaba_State_of_Mato_Grosso.html",  
         linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Cuiab%C3%A1",
         linkBuscarViagemTerrestre : "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
         linkBuscarViagemAerea : "https://www.decolar.com/",
@@ -249,7 +249,7 @@ let dados = [
         descricao: "Ilhéus: A Bahia que Jorge Amado amou. Sabores, histórias e paisagens: tudo isso é Ilhéus. Descubra o encanto de Ilhéus, a terra do cacau. Sol, mar e cultura: a combinação perfeita em Ilhéus. Ilhéus: onde a história se encontra com a natureza.",  
         linkPesquisaDeHoteis : "https://www.booking.com/city/br/ilheus.pt.html?aid=1702940;label=ilheus-EntSwRocvjdaaMkzCyTIqgS479842232763:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-433876952150:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIpPue9OGxiAMVkyCtBh0auA65EAAYASAAEgKp_PD_BwE",  
         linkPontosTuristicos : "https://www.tripadvisor.com.br/Attractions-g303262-Activities-Ilheus_State_of_Bahia.html",  
-        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/https://pt.wikipedia.org/wiki/Porto_Seguro%C3%A9us",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Ilh%C3%A9us",
         linkBuscarViagemTerrestre : "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
         linkBuscarViagemAerea : "https://www.decolar.com/",
         tags :   "cacau chocolate turismo praia jorgeamado bahia sol mar historia história"
@@ -333,16 +333,275 @@ let dados = [
         linkBuscarViagemTerrestre : "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
         linkBuscarViagemAerea : "https://www.decolar.com/",
         tags :   "LençóisMaranhenses Maranhão Brasil ParqueNacional Lagoas Dunas Natureza Paisagem Aventura Ecoturismo"
-    } 
+    },
 
- 
-
+    {
+        titulo: "Morro São Paulo",
+        descricao: "Morro São Paulo é uma charmosa vila localizada na Ilha de Tinharé, na Bahia. Famosa por suas praias paradisíacas, como a Praia do Forte e a Praia do Amor, oferece uma vida noturna vibrante e diversas atividades ao ar livre, como mergulho e passeios de barco.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/morro-de-sao-paulo.pt.html?aid=1702940;label=morro-de-sao-paulo-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIipqb4MLxjAMV9mP-AB2D8gF-6AAYAiAAEgLZP_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g488168-Activities-Morro_de_Sao_Paulo_State_of_Bahia.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Morro_de_S%C3%A3o_Paulo",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "MorroSãoPaulo Bahia Praia Ilhas Natureza Turismo VidaNoturna"
+    },
+    {
+        titulo: "Paraty",
+        descricao: "Paraty é uma cidade histórica localizada no estado do Rio de Janeiro. Conhecida por seu centro histórico bem preservado, ruas de pedra e arquitetura colonial, a cidade também oferece belas praias e uma rica cultura local.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/paraty.pt.html?aid=1702940;label=paraty-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIw5v4o7GxjAMVNiOAB0F5AW2uEAAYASAAEgIFlvD_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303503-Activities-Paraty_State_of_Rio_de_Janeiro.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Paraty",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "Paraty RioDeJaneiro História CentroHistórico Praias Cultura Colonial"
+    },
+    {
+        titulo: "Búzios",
+        descricao: "Búzios é uma famosa cidade litorânea localizada no estado do Rio de Janeiro, conhecida por suas praias deslumbrantes, vida noturna animada e atmosfera charmosa. É um destino popular para turistas em busca de relaxamento e diversão.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/buzios.pt.html?aid=1702940;label=buzios-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMI-tbU6uHxiAMV8FPAB0ArvAwrEAAYASAAEgIMRfD_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303492-Activities-Buzios_State_of_Rio_de_Janeiro.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Arma%C3%A7%C3%A3o_dos_B%C3%BAzios",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "Búzios RioDeJaneiro Praias VidaNoturna Lazer Turismo Relaxamento"
+    },
+    {
+        titulo: "Uberaba",
+        descricao: "Uberaba é uma cidade situada no estado de Minas Gerais, conhecida por sua rica tradição cultural e eventos como a Expozebu. A cidade oferece uma mistura de atrativos turísticos e culturais, com destaque para sua arquitetura histórica e eventos regionais.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/uberaba.pt.html?aid=1702940;label=uberaba-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIw9H9rMXjAMV8HhVAB0cJAQJwEAAYASAAEgIuDvD_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303363-Activities-Uberaba_State_of_Minas_Gerais.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Uberaba",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "Uberaba MinasGerais Cultura Eventos Arquitetura História"
+    },{
+        titulo: "Chapada dos Guimarães",
+        descricao: "Chapada dos Guimarães é um município e parque nacional localizado no estado de Mato Grosso, conhecido por suas impressionantes formações geológicas, cachoeiras e trilhas. É um destino popular para ecoturismo e aventura.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/chapada-dos-guimaraes.pt.html?aid=1702940;label=chapada-dos-guimaraes-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMI7J-X_O_xjAMV9ZXAB0BmrgDTEAAYAiAAEgLlP_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303340-Activities-Chapada_dos_Guimaraes_State_of_Mato_Grosso.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Chapada_dos_Guimar%C3%A3es",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        tags: "Chapada Chapadadosguimarães Chapadadosguimaraes guimaraes geografia trilha cachoeira"
+    },
+    {
+        titulo: "Tiradentes",
+        descricao: "Tiradentes é uma cidade histórica localizada no estado de Minas Gerais, conhecida por seu bem preservado centro colonial e arquitetura barroca. É um destino popular para turismo cultural e gastronômico, oferecendo diversas opções de restaurantes e eventos culturais.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/tiradentes.pt.html?aid=1702940;label=tiradentes-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIx5vT2MHxjAMV2kXAB0YJtQFS6AAYAiAAEgIv3_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303369-Activities-Tiradentes_State_of_Minas_Gerais.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Tiradentes_(Minas_Gerais)",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "Tiradentes MinasGerais História Arquitetura Colonial Cultura Gastronomia"
+    },
+    {
+        titulo: "Belo Horizonte",
+        descricao: "Belo Horizonte é a capital do estado de Minas Gerais, conhecida por sua vida cultural vibrante, arquitetura moderna e deliciosas opções gastronômicas. A cidade oferece uma combinação de atrações urbanas e naturais, com parques, museus e centros culturais.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/belo-horizonte.pt.html?aid=1702940;label=belo-horizonte-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIh4fLz6_xjAMVHZ7AB0D7VA0REAAYASAAEgK3T_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303374-Activities-Belo_Horizonte_State_of_Minas_Gerais.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Belo_Horizonte",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "BeloHorizonte MinasGerais Cultura Gastronomia Arquitetura Parques"
+    },
+    {
+        titulo: "Ilha Bela",
+        descricao: "Ilha Bela é um município localizado no litoral norte do estado de São Paulo, conhecido por suas praias paradisíacas, trilhas e rica biodiversidade. É um destino ideal para quem busca natureza, aventura e relaxamento.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/ilha-bela.pt.html?aid=1702940;label=ilha-bela-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMI0__2v7_lxjAMUrbAB0RwmQwZEAAYAiAAEgK9_3_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303634-Activities-Ilhabela_State_of_Sao_Paulo.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Ilhabela",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "IlhaBela SãoPaulo Praias Natureza Trilhas Ecoturismo Aventura"
+    },
+    {
+        titulo: "Canoa Quebrada",
+        descricao: "Canoa Quebrada é uma conhecida vila de praia localizada no estado do Ceará, famosa por suas dunas, falésias coloridas e vida noturna animada. É um destino popular para quem busca praias exóticas e atividades de aventura.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/canoa-quebrada.pt.html?aid=1702940;label=canoa-quebrada-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIq5SPtqPxjAMVxM4AB0YcEEylEAAYASAAEgITtfD_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303291-Activities-Canoa_Quebrada_State_of_Ceara.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Canoa_Quebrada",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "CanoaQuebrada Ceará Praias Dunas Falésias VidaNoturna Aventura"
+    },
+    {
+        titulo: "Navegantes",
+        descricao: "Navegantes é uma cidade localizada no estado de Santa Catarina, conhecida por suas praias e ambiente descontraído. É um destino ideal para quem procura relaxar à beira-mar e aproveitar as atrações naturais da região.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/navegantes.pt.html?aid=1702940;label=navegantes-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMI1I6YrqD1xjAMWQfAB0YHGw2V6AAYASAAEgIF6_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303527-Activities-Navegantes_State_of_Santa_Catarina.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Navegantes_(Santa_Catarina)",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "sul praia beiramar mar litoral"
+    },
+    {
+        titulo: "Campinas",
+        descricao: "Campinas é uma cidade localizada no interior do estado de São Paulo, conhecida por seu dinamismo econômico e cultural. Oferece uma variedade de atrações, como centros culturais, parques e uma rica gastronomia.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/campinas.pt.html?aid=1702940;label=campinas-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIhPjP8uKxjAMVliHAB0GQeAR2EAAYAiAAEgIJrfD_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303605-Activities-Campinas_State_of_Sao_Paulo.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Campinas",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "Campinas SãoPaulo Economia Cultura Gastronomia Parques"
+    },
+    {
+        titulo: "Santos",
+        descricao: "Santos é uma cidade portuária localizada no estado de São Paulo, famosa por seu extenso litoral e pelo histórico Porto de Santos. A cidade oferece atrações como o Museu do Café e o Jardim da Orla.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/santos.pt.html?aid=1702940;label=santos-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIvKD-v6qxjAMVHTfAB0D3fAW6EAAYAiAAEgK4gvD_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303625-Activities-Santos_State_of_Sao_Paulo.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Santos_(S%C3%A3o_Paulo)",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "Santos SãoPaulo Praia Porto Cultura JardimMuseu"
+    },
+    {
+        titulo: "Cariacica",
+        descricao: "Cariacica é um município localizado no estado do Espírito Santo, conhecido por sua proximidade com Vitória e pelas suas belezas naturais. A cidade oferece opções de lazer e contato com a natureza.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/cariacica.pt.html?aid=1702940;label=cariacica-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIxPf-6crxjAMV5dHAB0YkKQp1EAAYAiAAEgKpI_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303374-Activities-Cariacica_State_of_Espirito_Santo.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Cariacica",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "Cariacica EspíritoSanto Naturaleza ProximidadeVitória Lazer"
+    },
+    {
+        titulo: "São João Del Rey",
+        descricao: "São João Del Rey é uma cidade histórica localizada em Minas Gerais, famosa por seu patrimônio colonial e eventos culturais. A cidade é um destino popular para quem aprecia história e arquitetura barroca.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/sao-joao-del-rei.pt.html?aid=1702940;label=sao-joao-del-rei-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIxG_j78fxjAMVRO9AB0Yu8AKtEAAYASAAEgIUl_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303376-Activities-Sao_Joao_del_Rei_State_of_Minas_Gerais.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_del-Rei",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "SãoJoãoDelRei MinasGerais História Colonial Arquitetura Cultural"
+    },
+    {
+        titulo: "Barretos",
+        descricao: "Barretos é uma cidade localizada no interior do estado de São Paulo, famosa por seu rodeio anual, o Festa do Peão de Barretos. A cidade oferece um ambiente vibrante e diversas atrações relacionadas à cultura country.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/barretos.pt.html?aid=1702940;label=barretos-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMI-pH84NHxjAMVFB7AB0YBYe9gEAAYASAAEgJjt_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303349-Activities-Barretos_State_of_Sao_Paulo.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Barretos",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "Barretos SãoPaulo Rodeio FestaDoPeão Cultura Country rodeio"
+    },
+    {
+        titulo: "Boa Vista",
+        descricao: "Boa Vista é a capital do estado de Roraima, localizada no norte do Brasil. É conhecida por sua rica diversidade cultural e belezas naturais, incluindo a proximidade com a floresta amazônica e o Rio Branco.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/boa-vista.pt.html?aid=1702940;label=boa-vista-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMI_7T15LvxjAMV4WfAB0Y4Nw7VEAAYAiAAEgIkd_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303374-Activities-Boa_Vista_Roraima_State.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Boa_Vista_(Roraima)",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "BoaVista Roraima Amazônia Cultura Natureza Diversidade"
+    },
+    {
+        titulo: "Londrina",
+        descricao: "Londrina é uma cidade localizada no norte do estado do Paraná, conhecida por sua qualidade de vida e desenvolvimento econômico. Oferece diversas opções culturais, parques e eventos ao longo do ano.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/londrina.pt.html?aid=1702940;label=londrina-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMI2rjW2MfxjAMV9ZYAB0YjrkK6EAAYAiAAEgKgb_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303377-Activities-Londrina_State_of_Parana.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Londrina",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "Londrina Paraná Cultura Parques Economia QualidadeDeVida"
+    },
+    {
+        titulo: "Chapada da Diamantina",
+        descricao: "Chapada da Diamantina é uma região montanhosa na Bahia, conhecida por suas paisagens deslumbrantes, cachoeiras e trilhas. É um destino popular para o ecoturismo e para quem busca contato com a natureza.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/chapada-da-diamantina.pt.html?aid=1702940;label=chapada-da-diamantina-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIqKj46NfxjAMVq-9AB0YBEEXHEAAYASAAEgK6gfD_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303269-Activities-Chapada_Diamantina_State_of_Bahia.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Chapada_da_Diamantina",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "ChapadaDaDiamantina Bahia Natureza Cachoeiras Trilhas Ecoturismo"
+    },
+    {
+        titulo: "Serra Negra",
+        descricao: "Serra Negra é uma cidade localizada no interior do estado de São Paulo, conhecida por seu clima ameno e suas opções de turismo rural e ecoturismo. A cidade é famosa por suas fontes de água mineral e áreas verdes.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/serra-negra.pt.html?aid=1702940;label=serra-negra-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMI9pHj_9_xjAMVWoAAB0YlNQzZEAAYAiAAEgJI4_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303606-Activities-Serra_Negra_State_of_Sao_Paulo.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Serra_Negra",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "SerraNegra SãoPaulo TurismoRural Ecoturismo ClimaAmeno ÁguaMineral"
+    },
+    {
+        titulo: "Palmas",
+        descricao: "Palmas é a capital do estado do Tocantins, situada no norte do Brasil. A cidade é conhecida por seu planejamento urbano moderno, áreas verdes e como ponto de partida para explorar a região amazônica.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/palmas.pt.html?aid=1702940;label=palmas-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIwprc9b3_xjAMV93AB0YlVoJhEAAYAiAAEgJ1L_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303309-Activities-Palmas_State_of_Tocantins.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Palmas_(Tocantins)",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "Palmas Tocantins PlanejamentoUrbano Natureza RegiãoAmazônica"
+    },
+    {
+        titulo: "Cachoeira de Emas - GO",
+        descricao: "Cachoeira de Emas é um pequeno município no estado de Goiás, conhecido por suas atrações naturais e pela tranquilidade do interior. É um destino ideal para quem busca contato com a natureza e relaxamento.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/cachoeira-de-emas.pt.html?aid=1702940;label=cachoeira-de-emas-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIhYPjxtm_xjAMV6YAB0YkSAGsEAAYAiAAEgIK8_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g442855-Activities-Cachoeira_de_Emas_Goias_State.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Cachoeira_de_Emas",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "CachoeiraDeEmas Goiás Natureza Interior Relaxamento"
+    },
+    {
+        titulo: "Goiânia",
+        descricao: "Goiânia é a capital do estado de Goiás e é conhecida por seu planejamento urbano e áreas verdes. A cidade combina modernidade com rica cultura e oferece diversas opções de lazer e eventos culturais.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/goiania.pt.html?aid=1702940;label=goiania-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMI_eKdvZT_yAMVbVVAB0YHEn8uEAAYAiAAEgK9r_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303320-Activities-Goiania_State_of_Goias.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Goi%C3%A2nia",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "Goiânia Goiás PlanejamentoUrbano Cultura Lazer Eventos"
+    },
+    {
+        titulo: "Caraguatatuba",
+        descricao: "Caraguatatuba é uma cidade litorânea localizada no estado de São Paulo, conhecida por suas praias e belezas naturais. A cidade é um destino popular para o turismo de verão e oferece diversas atividades ao ar livre.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/caraguatatuba.pt.html?aid=1702940;label=caraguatatuba-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIh_KDvP7y_yAMVqPAB0YEqA9gEAAYASAAEgKgP_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303497-Activities-Caraguatatuba_State_of_Sao_Paulo.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Caraguatatuba",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "Caraguatatuba SãoPaulo Praias Natureza TurismoVerão"
+    },
+    {
+        titulo: "Guarapari",
+        descricao: "Guarapari é uma cidade litorânea no estado do Espírito Santo, famosa por suas praias de águas claras e quentes. É um destino popular para turismo de praia e oferece diversas opções de lazer e entretenimento.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/guarapari.pt.html?aid=1702940;label=guarapari-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIu9jmx8OxjAMV5sfAB0YH4gEGEAAYAiAAEgJ0z_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303320-Activities-Guarapari_State_of_Espirito_Santo.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Guarapari",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "Guarapari EspíritoSanto Praias TurismoVerão Lazer"
+    },
+    {
+        titulo: "Pelotas",
+        descricao: "Pelotas é uma cidade localizada no estado do Rio Grande do Sul, conhecida por sua arquitetura histórica e tradições culturais. A cidade é famosa por suas confeitarias e festas tradicionais.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/pelotas.pt.html?aid=1702940;label=pelotas-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIx5zvxbq_8AMVSaRAB0YjrLzFEAAYAiAAEgKrVD_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303368-Activities-Pelotas_State_of_Rio_Grande_do_Sul.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Pelotas",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "Pelotas RioGrandeDoSul Arquitetura História Gastronomia Cultural"
+    },
+    {
+        titulo: "Cachoeira de Emas - SP",
+        descricao: "Cachoeira de Emas é um pequeno município no interior de São Paulo, conhecido por suas atrações naturais e tranquilidade. A cidade é ideal para quem busca relaxamento e contato com a natureza.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/cachoeira-de-emas.pt.html?aid=1702940;label=cachoeira-de-emas-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIhYPjxtm_xjAMV6YAB0YkSAGsEAAYAiAAEgIK8_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g442855-Activities-Cachoeira_de_Emas_Sao_Paulo_State.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Cachoeira_de_Emas",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "CachoeiraDeEmas SãoPaulo Natureza Relaxamento Tranquilidade"
+    },
+    {
+        titulo: "Jaguariúna",
+        descricao: "Jaguariúna é uma cidade localizada no interior de São Paulo, conhecida por suas áreas verdes e eventos culturais. É famosa pela Festa do Peão de Jaguariúna, um dos maiores eventos de rodeio do Brasil.",
+        linkPesquisaDeHoteis: "https://www.booking.com/city/br/jaguariuna.pt.html?aid=1702940;label=jaguariuna-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMI5tHCz8y8_xjAMV9kAB0YwEX5EAAYASAAEgKzY_D_BwE",
+        linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303611-Activities-Jaguariuna_State_of_Sao_Paulo.html",
+        linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Jaguari%C3%BAna",
+        linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
+        linkBuscarViagemAerea: "https://www.decolar.com/",
+        tags: "Jaguariúna SãoPaulo Eventos Cultura Rodeio ÁreasVerdes Rodeio"
+    }
 ];
 
-
-    
-
-
-/*let dados = "Curitiba"
-
-let dados = "Salvador"*/
