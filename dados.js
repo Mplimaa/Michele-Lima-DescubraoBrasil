@@ -367,13 +367,13 @@ let dados = [
     },
     {
         titulo: "Uberaba",
-        descricao: "Uberaba é uma cidade situada no estado de Minas Gerais, conhecida por sua rica tradição cultural e eventos como a Expozebu. A cidade oferece uma mistura de atrativos turísticos e culturais, com destaque para sua arquitetura histórica e eventos regionais.",
+        descricao: "Cidade do saudoso médium Chico Xavier. Uberaba é uma cidade situada no estado de Minas Gerais, conhecida por sua rica tradição cultural e eventos como a Expozebu. A cidade oferece uma mistura de atrativos turísticos e culturais, com destaque para sua arquitetura histórica e eventos regionais.",
         linkPesquisaDeHoteis: "https://www.booking.com/city/br/uberaba.pt.html?aid=1702940;label=uberaba-ZBuySKGSmQyAgbNgL*X8HwS479845113256:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302161241932:lp9100333:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcpDr58xwogAwmVmCRFhsnQ;ws=&gclid=EAIaIQobChMIw9H9rMXjAMV8HhVAB0cJAQJwEAAYASAAEgIuDvD_BwE",
         linkPontosTuristicos: "https://www.tripadvisor.com.br/Attractions-g303363-Activities-Uberaba_State_of_Minas_Gerais.html",
         linkMaisInformacoes: "https://pt.wikipedia.org/wiki/Uberaba",
         linkBuscarViagemTerrestre: "https://www.clickbus.com.br/?gad_source=1&gclid=EAIaIQobChMI2beh5tuxiAMVbV5IAB0YETWQEAAYAyAAEgLs_fD_BwE",
         linkBuscarViagemAerea: "https://www.decolar.com/",
-        tags: "Uberaba MinasGerais Cultura Eventos Arquitetura História"
+        tags: "Uberaba MinasGerais Cultura Eventos Arquitetura História ChicoXavier religião espírita espiritismo alankardec kardec"
     },{
         titulo: "Chapada dos Guimarães",
         descricao: "Chapada dos Guimarães é um município e parque nacional localizado no estado de Mato Grosso, conhecido por suas impressionantes formações geológicas, cachoeiras e trilhas. É um destino popular para ecoturismo e aventura.",
