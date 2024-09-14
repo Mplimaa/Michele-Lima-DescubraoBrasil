@@ -28,11 +28,11 @@ Imagine ter consultar sobre  o seu próximo destino para alguma cidade turístic
 ### **Funcionalidades futuras:**
 * **Mapas interativos**
 * **Recomendações personalizadas**
+**[Imagem de um mapa do Brasil com destaque para as cidades disponíveis na aplicação]**
 
 ### Licença
 * Projeto autoral, desenvolvido por mim, Michele, usando os fundamentos passados durante o evento [Imersão Dev com Gemini]. Os dados foram gerados via IA do Gemini.
 * Esta aplicação pode ser usada apenas para fins educacionais.
 
-**[Imagem de um mapa do Brasil com destaque para as cidades disponíveis na aplicação]**
 
 **Vamos juntos explorar o Brasil!** 🇧🇷
