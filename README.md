@@ -15,7 +15,7 @@ Imagine ter consultar sobre  o seu próximo destino para alguma cidade turístic
 
 * **HTML:** A estrutura básica da página.
 * **CSS:** Responsável pelo visual da aplicação.
-* **JavaScript:** A mágica por trás das buscas e resultados.(Estilo CemelCase)
+* **JavaScript:** A mágica por trás das buscas e resultados.(Estilo CamelCase)
 
 ### **Como usar:**
 
